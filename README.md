@@ -1,0 +1,18 @@
+# WeatherMap
+
+![1](https://user-images.githubusercontent.com/20419508/38866432-28bbf77a-4241-11e8-9b3f-8f40abe016c0.png)
+![2](https://user-images.githubusercontent.com/20419508/38866436-28dbbcea-4241-11e8-839d-58f1c59379c5.png)
+![3](https://user-images.githubusercontent.com/20419508/38866437-28fcca34-4241-11e8-8853-c18c3f6b8b2f.png)
+![4](https://user-images.githubusercontent.com/20419508/38866439-291c794c-4241-11e8-8cb0-3c5cf085ce5b.png)
+![5](https://user-images.githubusercontent.com/20419508/38866440-293be9bc-4241-11e8-9a54-c74002a508b7.png)
+![6](https://user-images.githubusercontent.com/20419508/38866441-295c40b8-4241-11e8-8df7-1ba51c0c1cbc.png)
+![7](https://user-images.githubusercontent.com/20419508/38866443-297b66e6-4241-11e8-82c6-3f8c411973ac.png)
+![8](https://user-images.githubusercontent.com/20419508/38866444-29b948a8-4241-11e8-8165-bfaef9b6b3ce.png)
+![9](https://user-images.githubusercontent.com/20419508/38866445-29e06de8-4241-11e8-8143-e16cdb6290ea.png)
+![10](https://user-images.githubusercontent.com/20419508/38866446-29fdfa98-4241-11e8-8622-9889d778a271.png)
+![11](https://user-images.githubusercontent.com/20419508/38866447-2a1d2594-4241-11e8-8e26-4ce1d6818e2e.png)
+![12](https://user-images.githubusercontent.com/20419508/38866448-2a3e69a2-4241-11e8-8e61-2d91b831a16a.png)
+![13](https://user-images.githubusercontent.com/20419508/38866449-2a5d6834-4241-11e8-954a-0fdb0ef6ba64.png)
+![14](https://user-images.githubusercontent.com/20419508/38866450-2a7edba4-4241-11e8-9de8-36e48781139d.png)
+![15](https://user-images.githubusercontent.com/20419508/38866451-2a9f1fb8-4241-11e8-9467-eefc727d26aa.png)
+![16](https://user-images.githubusercontent.com/20419508/38866452-2ac8d54c-4241-11e8-98b0-4244ae5c3749.png)
