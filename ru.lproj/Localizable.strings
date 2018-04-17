@@ -1,0 +1,17 @@
+/*
+ Russian
+ */
+
+"NETWORK_ERROR_TITLE" = "Нет сети";
+"NETWORK_ERROR_MESSAGE" = "Не удалось загрузить данные";
+"BUTTON_OK_CONTENT" = "OK";
+"EMPTY_DETAIL_PAGE_TITLE" = "Город";
+"EMPTY_DETAIL_PAGE_MESSAGE" = "Город не выбран";
+"MASTER_VIEW_CONTROLLER_TITLE" = "Города";
+"LIST_TAB_TITLE" = "Города";
+"MAP_TAB_TITLE" = "Карта";
+"SETTINGS_TAB_TITLE" = "Настройки";
+"BUTTON_UPDATE_SETTINGS_CONTENT" = "Обновить настройки";
+"LABEL_APP_LANGUAGE_TITLE" = "Язык приложения";
+"LABEL_FONT_SIZE_TITLE" = "Размер шрифта";
+"LABEL_FONT_COLOR_TITLE" = "Цвет шрифта";

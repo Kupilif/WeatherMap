@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Ba-5E-sbi"; */
+"5Ba-5E-sbi.text" = "Label";
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "8K6-dE-Q5u"; */
+"8K6-dE-Q5u.title" = "Detail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "A9O-Pf-jNe"; */
+"A9O-Pf-jNe.text" = "Label";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "AHd-cJ-gdG"; */
+"AHd-cJ-gdG.text" = "Description";
+
+/* Class = "UITabBarItem"; title = "Cities"; ObjectID = "CZR-Dk-OPQ"; */
+"CZR-Dk-OPQ.title" = "Cities";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hna-yK-0gN"; */
+"Hna-yK-0gN.text" = "Label";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "VTn-gB-Ol4"; */
+"VTn-gB-Ol4.text" = "City";
+
+/* Class = "UINavigationItem"; title = "Detail"; ObjectID = "Zb4-xy-N0q"; */
+"Zb4-xy-N0q.title" = "Detail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cgL-BT-0ci"; */
+"cgL-BT-0ci.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "dQD-7N-0gr"; */
+"dQD-7N-0gr.title" = "Map";
+
+/* Class = "UINavigationItem"; title = "Cities"; ObjectID = "fbK-wY-Uln"; */
+"fbK-wY-Uln.title" = "Cities";
+
+/* Class = "UILabel"; text = "Temperature"; ObjectID = "tK0-8y-pgh"; */
+"tK0-8y-pgh.text" = "Temperature";

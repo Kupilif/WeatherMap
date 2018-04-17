@@ -1,0 +1,17 @@
+/* 
+ English
+*/
+
+"NETWORK_ERROR_TITLE" = "Network error";
+"NETWORK_ERROR_MESSAGE" = "Unable to load data";
+"BUTTON_OK_CONTENT" = "OK";
+"EMPTY_DETAIL_PAGE_TITLE" = "Сity";
+"EMPTY_DETAIL_PAGE_MESSAGE" = "No city selected";
+"MASTER_VIEW_CONTROLLER_TITLE" = "Cities";
+"LIST_TAB_TITLE" = "Cities";
+"MAP_TAB_TITLE" = "Map";
+"SETTINGS_TAB_TITLE" = "Settings";
+"BUTTON_UPDATE_SETTINGS_CONTENT" = "Update settings";
+"LABEL_APP_LANGUAGE_TITLE" = "App language";
+"LABEL_FONT_SIZE_TITLE" = "Font size";
+"LABEL_FONT_COLOR_TITLE" = "Font color";
